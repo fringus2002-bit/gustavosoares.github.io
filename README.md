@@ -15,12 +15,6 @@ Junior Process Engineer with a double degree in Chemical Engineering and Industr
 ## Purpose
 This repository hosts a clean GitHub Pages site used as a compact, shareable link hub for networking and job applications. Ideal for quick sharing at events and in recruiter conversations.
 
-## How to use
-1. Visit the GitHub Pages site at `https://gustavosoares.github.io`.  
-2. Click the links to view LinkedIn or download CVs.  
-3. Use the QR code (generated separately) to share the hub quickly.
-
-
 ## Contact
 **Email:** gustavofreitassoares165@gmail.com 
 **Location:** Compiègne, France
