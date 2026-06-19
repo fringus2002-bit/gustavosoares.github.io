@@ -1,5 +1,6 @@
 # gustavosoares.github.io
 # Gustavo Freitas Soares — Link Hub
+Hi, I’m Gustavo — junior process engineer with a double degree in Chemical and Industrial Process Engineering. I’ve worked on pilot plant operations and scale‑up projects, focusing on DoE and process optimization. I’m looking for roles in process engineering or pilot plant scale‑up. Can I share my CV or my link hub?
 
 **Professional one‑page link hub** hosting my LinkedIn profile and CVs in English and Italian.  
 Designed for recruiters.
