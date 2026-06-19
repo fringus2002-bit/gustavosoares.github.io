@@ -2,7 +2,7 @@
 # Gustavo Freitas Soares — Link Hub
 
 **Professional one‑page link hub** hosting my LinkedIn profile and CVs in English and Italian.  
-Designed for recruiters and event networking (VivaTech 2026).
+Designed for recruiters.
 
 ## Links
 - **LinkedIn:** https://www.linkedin.com/in/gustavo-freitas-soares  
