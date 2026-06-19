@@ -5,7 +5,7 @@
 Designed for recruiters.
 
 ## Links
-- **LinkedIn:** https://www.linkedin.com/in/gustavo-freitas-soares  
+- **LinkedIn:** https://www.linkedin.com/in/gustavo-soares-7938b21a4/?locale=en-US
 - **CV — English:** https://drive.google.com/file/d/1FBYSvCsh5LP8t0nLqv5I2WSHdMIFw6s6/view?usp=sharing  
 - **CV — Italiano:** https://drive.google.com/file/d/1Rv5wEadC9XeGMVDqLmR4eA8jWW4brqgc/view?usp=sharing
 
@@ -20,12 +20,9 @@ This repository hosts a clean GitHub Pages site used as a compact, shareable lin
 2. Click the links to view LinkedIn or download CVs.  
 3. Use the QR code (generated separately) to share the hub quickly.
 
-## Notes
-- Ensure the Google Drive files are set to Anyone with the link can view.  
-- To host PDFs directly in this repo, upload the files to the repository and update the links in `index.html`.
 
 ## Contact
-**Email:** gustavo.freitas.soares@gmail.com  
+**Email:** gustavofreitassoares165@gmail.com 
 **Location:** Compiègne, France
 
 ## License
